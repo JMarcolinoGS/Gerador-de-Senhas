@@ -7,6 +7,6 @@ synbols = "[]{}()*;/._-"
 
 all = lower + upper + numbers + synbols
 length = 16
-passworld = "".join(random.sample(all,length))
+password = "".join(random.sample(all,length))
 
-print(passworld)
+print(password)

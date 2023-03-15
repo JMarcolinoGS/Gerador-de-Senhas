@@ -1,4 +1,4 @@
-import random
+import rando
 
 lower = "abcdefghijklmnopqrstuvwxyz"
 upper = "ABCDEFGHIJKLMNOPQRSTUVWXYZ"

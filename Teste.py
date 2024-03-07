@@ -11,3 +11,4 @@ password = "".join(random.sample(all,length))
 
 print(password)
 
+
